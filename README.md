@@ -1,2 +1,2 @@
 # PythonTutorial
- Tutorial from youtube chanel to learn Pythonlanguaje
+ Tutorial from youtube chanel to learn Python languaje
